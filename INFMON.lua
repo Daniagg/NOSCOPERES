@@ -9,4 +9,3 @@
 
         updateMoney(999999)
         end)
-        task.wait()
