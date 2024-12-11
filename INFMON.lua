@@ -8,4 +8,3 @@
         end
 
         updateMoney(999999)
-        end)
