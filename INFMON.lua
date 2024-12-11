@@ -7,6 +7,6 @@
             Money.Value = newMoney
         end
 
-        updateMoney(999999) --  Замените 100 на нужное значение или используйте переменную
+        updateMoney(999999)
         end)
         task.wait()
